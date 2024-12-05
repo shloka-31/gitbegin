@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding-top: 2rem;
+    height: 8rem;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+input{
+    height: 2rem;
+    width: 30rem;
+    font-size: 1rem;
+}
+#add {
+    margin-left: -0.25rem;
+    height: 2.3rem;
+    width: 7rem;
+}
+ul {
+    text-align: left;
+}
+li {
+    height: 2rem;
+    width: 100%;
+    background-color: #eee;
+    border: 0.5rem;
+    border-color: black;
+}
+#add:hover {
+    background-color: lightgray;
+}
+li:hover {
+    background-color: #ddd;
+}
+.close {
+    position: absolute;
+    right: 0%;
+    padding: 0.3rem 1rem 0.5rem 1rem;
+  }
+  .close:hover{
+    background-color: red;
+  }
+  .active {
+    background-color: #888;
+    text-decoration: line-through;
+  }
+li.active:hover {
+    background-color: none;
+}
+  

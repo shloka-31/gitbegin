@@ -1,0 +1,82 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMVeJtmi_ueZifSVWwFJ-zoKM2nK2CEPPM9CAgiVQ3e15ZJx3t6vAbgm0uLDa4FQH7QE&usqp=CAU");
+    background-size: cover;
+    color: white;
+    font-style: 'Arial';
+}
+.netflix {
+    text-align: left;
+    margin-top: 0px;
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+.eng{
+    text-align: right;
+    margin-right: 90px;
+    height: 30px;
+    margin-top: 30px;
+    padding: 10px,20px;
+    width: 20;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.sign{
+    text-align: right;
+    margin-left:-590px ;
+    height: 30px;
+    margin-top: 30px;
+    padding: auto;
+    background-color: red;
+    color: white;
+}
+.middle {
+    text-align: center;
+}
+.heading {
+    margin-top: 100px;
+}
+.type{
+    background-color: transparent;
+    color: white;
+    margin-top: -3px;
+    margin-right: 0px;
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    border-top: 2px solid white;
+    border-radius: 4px;
+    height: 19px;
+    padding: 5px 150px 5px 5px;
+}
+.get{
+    background-color: red;
+    color: white;
+    margin-top: 1px;
+    margin-left: -8px;
+    border-right: 2px solid white;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    height: 31px;
+    border-radius: 4px;
+    font-size: x-small;
+}
+.second{
+    margin-top: -20px;
+    margin-bottom: 100px;
+    margin-bottom: -20px;
+}
+p{
+    font-weight: 100;
+}
+.new{
+    margin-top: 100px;
+    margin-left: 550PX;
+    color: white;
+    background-color: black;
+    font-size: x-small;
+    padding: 5px 2px 5px 2px;
+}
+
